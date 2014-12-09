@@ -1,4 +1,4 @@
 openshift
 =========
 
-source code for calculator to try open shift
+diy project with drop wizard deployed to openshift
