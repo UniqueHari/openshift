@@ -1,4 +1,10 @@
-http:
-    bindHost: 127.0.0.1
-    adminPort: 8080
+server:
+  applicationConnectors:
+    - type: http
+      bindHost: 127.0.0.1
+      port : 8080
+  adminConnectors: 
+   - type: http 
+     bindHost: 127.0.0.1
+     port: 8081
 template: Hello, %s!
