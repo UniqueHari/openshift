@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>dw.sample</groupId>
   <artifactId>dwsample</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>dwsample</name>
   <description>sample project for drop wizard</description>
   <dependencies>
